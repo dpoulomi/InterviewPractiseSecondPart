@@ -17,15 +17,21 @@ public class MaxHeap {
         return maxHeap.get(0);
     }
 
+    public int size(){
+        return maxHeap.size();
+    }
+
     public void add(int element) {
         maxHeap.add(element);
         swim(maxHeap.size() - 1);
     }
 
-    public void delete() {
+    public int delete() {
+        int element = maxHeap.get(0);
         maxHeap.set(0, maxHeap.get(maxHeap.size() - 1));
         maxHeap.remove(maxHeap.size() - 1);
         sink(0);
+        return element;
     }
 
     private void sink(int elementIndex) {
@@ -51,7 +57,7 @@ public class MaxHeap {
 
         // if right childIndex is inside the heap
         if(rightChildIndex > maxHeap.size() - 1) {
-            return maxHeap.get(leftChildIndex);
+            return leftChildIndex;
         }
 
         return maxHeap.get(leftChildIndex) > maxHeap.get(rightChildIndex) ?
