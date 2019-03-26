@@ -10,15 +10,11 @@ public class CoinChangeUsingDynamicProgramming {
 
     private int getMinimumNoOfCoins(int[] coins, int v) {
         int store[] = new int[v+1];
-
         store[0] = 0;
-
         for(int i = 1; i<=v ;i++){
             store[i] = Integer.MAX_VALUE;
         }
-
         for(int i = 1;i <= v;i ++){
-
             for(int j = 0 ; j< coins.length ; j++){
                 if(coins[j]<= i){
                     int result = store[i - coins[j]] ;
