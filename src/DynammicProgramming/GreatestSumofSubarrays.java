@@ -1,4 +1,4 @@
-package data;
+package DynammicProgramming;
 
 public class GreatestSumofSubarrays {
     public static void main(String[] args) {

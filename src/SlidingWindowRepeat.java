@@ -25,7 +25,6 @@ public class SlidingWindowRepeat {
         System.out.println(arr[deque.peek()]);
 
         for(int i= slidingWindow ; i< arr.length; i++) {
-
             while (!deque.isEmpty() && arr[i] >= arr[deque.peekLast()] && (i - deque.peekLast() < slidingWindow)) {
                 deque.removeLast();
             }
@@ -33,10 +32,7 @@ public class SlidingWindowRepeat {
                 deque.removeFirst();
             }
             deque.addLast(i);
-
             System.out.println(arr[deque.peek()]);
-
-
         }
     }
 }

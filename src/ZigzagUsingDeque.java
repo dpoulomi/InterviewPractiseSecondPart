@@ -73,9 +73,12 @@ public class ZigzagUsingDeque {
                 current--;
             }
 
+            if(current == 0) {
                 current = next;
                 next = 0;
                 flip = !flip;
+                System.out.println();
+            }
 
         }
 

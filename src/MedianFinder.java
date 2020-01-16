@@ -24,7 +24,6 @@ class MedianFinder {
 
         minHeap.offer(num);
         maxHeap.offer(minHeap.poll());
-
         if(minHeap.size()<maxHeap.size()){
             minHeap.offer(maxHeap.poll());
         }

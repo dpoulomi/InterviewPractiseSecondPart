@@ -28,7 +28,6 @@ public class CheckForBalancedTree {
 
          if((checkIfTreeIsBalanced(root.left ,left) && (checkIfTreeIsBalanced(root.right , right)))) {
             int diff = left - right;
-
             if (diff >= -1 || depth <= 1) {
                 depth = 1 + left > right? left : right;
                 return true;
