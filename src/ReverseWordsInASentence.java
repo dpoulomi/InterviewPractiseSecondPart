@@ -11,7 +11,7 @@ public class ReverseWordsInASentence {
     private void reverseWords(String sentence) {
        int start= 0 ;
        int end = sentence.length();
-       char[] sentenceArray = sentence.toCharArray();
+      // char[] sentenceArray = sentence.toCharArray();
 
         String[] splitSentenceArray = sentence.split(" ");
         String reversedString = "";

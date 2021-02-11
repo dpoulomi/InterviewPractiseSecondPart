@@ -1,6 +1,6 @@
 import data.TreeNode;
 
-public class LowestCommonAncestorofBinaryTree {
+public class    LowestCommonAncestorofBinaryTree {
 
 
     public static void main(String[] args) {

@@ -2,107 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6256a49-8878-43e5-b521-26918793de3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Abbreviation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ArrayManupulation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTree/BinartyTreetoMirrorTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTree/BinaryTreeToDoublyLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTree/LeftViewBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BooleanMatrixSetRowColumnTo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Candies.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CheckLinkedListIsPalindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/AvengersChasingThanos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/CoinChange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/EditDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/LongestCommonSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/LongestIncreasingSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/MinimumNoOfJumpsRecursion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/MinimumNumberOfJumps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/NEggsKFloors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/WaysToMakeACoinChange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FindNextNodeInBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FlattenLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FoldableBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FoldableBinaryTree1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GCD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GroupAnagrams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HashMapList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Heap/MaxHeap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Heap/MaxHeapCallingClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeapSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HuffmanEncoding.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/KthLargestElements.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LRUImplementation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LargestNumberFormed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeftView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeftViewOfBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LongestCommonSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LongestIncreasingSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LongestPathInAMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LowestCommonAncestor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaxHeapImplementation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumDifferenceBetweenTwoElements.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumInAQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumSizeBinarySubTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumSizeRectangleWithAll1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumSizeSquareSubMatrixWith1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumSizeSquareSubMatrixWithAll1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumSizedRectanglesWithAll1s.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumSumFromRootToLeaf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumSumPathInBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumSumSubArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MergeSortLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MinimumMoves.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MinimumNumberOfCoins.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MinimumSwaps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NumberOfIslandsIn2DArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NumberOfMountainsClimbed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NumberOfWaysRatInAMaze.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OneEditAway.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PalindromicSubstrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PartitionProblemDynammicProgramming.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PoisonousPlant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PrintMatrixInSpiralOrder1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RatInAMaze.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RatInAMazeRepeat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RectangleOverlap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RoadsAndLibraries.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RobotInAGrid.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RotateAMatrixBy90.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RotateMatrixBy90.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SearchIfAWordIsPresentInTrie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SearchIn2DMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SnakeAndLadder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution23.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SolutionMedian.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SolutionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StockBuyAndSell.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StockBuyAndSellRepeat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestMaxHeapImplementation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TransposeMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TreasureIsland.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Trie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrieImplementation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TripletInGeometric.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WordBreakProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Xor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/Test.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/BinarySearchTreeToSortedDoublyLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/data/GreatestSumofSubarrays.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinarySearchTreeToSortedDoublyLinkedList.java" afterPath="$PROJECT_DIR$/src/BinaryTree/BinarySearchTreeToSortedDoublyLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/data/GreatestSumofSubarrays.java" afterPath="$PROJECT_DIR$/src/DynammicProgramming/GreatestSumofSubarrays.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/CheckForBalancedTree.class" afterPath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/CheckForBalancedTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/MedianFinder.class" afterPath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/MedianFinder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/SlidingWindowRepeat.class" afterPath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/SlidingWindowRepeat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/ZigzagUsingDeque.class" afterPath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/ZigzagUsingDeque.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/data/LinkedListNode.class" afterPath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/data/LinkedListNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/MinCostToConnectRopes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/OptimalUtilisation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/ProdSuggestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/ProductSuggestionSelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/ReorderDataInLogFiles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/SuggestedProducts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/TopNBuzzWordsSelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/TopNBuzzwords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/TopNWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/TreasureIslandUsingBFS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/TreasureIslandUsingDFS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/TresureIsland.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/ZombieInMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmazonPrep/ZombieInMatrixUsingBFS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Array/NumberOfOccurencesOfAnElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/CoinChangeProblem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/LongestPathInAMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/MinimumPartition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/MinimumPartitionUsingRecursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/ShortestCommonSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/SubsetSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/WaysToCoverADistance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynammicProgramming/WaysToCoverADistanceUsingRecursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Graph/NUmberOfISlands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MSPrep/FibonacciDynammicProgramming.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MSPrep/FibonacciRecursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MSPrep/FindSetsOfNumsThatAddUpto16.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MSPrep/FindSetsOfNumsThatAddsUpDynammic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MSPrep/MaxSumBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MSPrep/ShiftLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MSPrep/StaircaseProblem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MSPrep/StaircaseProblemMultipleWays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MSPrep/SubarrayWithGivenSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MultidimensionalMatrix/MaximumSizeRectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MultidimensionalMatrix/MaximumSizeSquareWithAll1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MultidimensionalMatrix/RotateMatrixBy90.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MultidimensionalMatrix/ShortestPathInABinaryMaze.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/ReverseWordsInASentence.class" afterPath="$PROJECT_DIR$/out/production/InterviewPractiseSecondPart/ReverseWordsInASentence.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CheckForBalancedTree.java" afterPath="$PROJECT_DIR$/src/CheckForBalancedTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MedianFinder.java" afterPath="$PROJECT_DIR$/src/MedianFinder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SlidingWindowRepeat.java" afterPath="$PROJECT_DIR$/src/SlidingWindowRepeat.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ZigzagUsingDeque.java" afterPath="$PROJECT_DIR$/src/ZigzagUsingDeque.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/LinkedListNode.java" afterPath="$PROJECT_DIR$/src/data/LinkedListNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DynammicProgramming/EditDistance.java" afterPath="$PROJECT_DIR$/src/DynammicProgramming/EditDistance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LowestCommonAncestorofBinaryTree.java" afterPath="$PROJECT_DIR$/src/LowestCommonAncestorofBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ReverseWordsInASentence.java" afterPath="$PROJECT_DIR$/src/ReverseWordsInASentence.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,16 +56,28 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$LongestSubstringOptimum.coverage" NAME="LongestSubstringOptimum Coverage Results" MODIFIED="1552765828565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$CheckForBST.coverage" NAME="CheckForBST Coverage Results" MODIFIED="1552969511315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$MinimumNoOfJumpsRecursion.coverage" NAME="MinimumNoOfJumpsRecursion Coverage Results" MODIFIED="1568057110919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>DynammicProgramming.*</FILTER>
+    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$ShiftLinkedList.coverage" NAME="ShiftLinkedList Coverage Results" MODIFIED="1608266629918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MSPrep.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$MaximumSizeRectangle.coverage" NAME="MaximumSizeRectangle Coverage Results" MODIFIED="1580239846033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MultidimensionalMatrix.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$Solution2.coverage" NAME="Solution2 Coverage Results" MODIFIED="1554605936657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$PalindromicSubstrings.coverage" NAME="PalindromicSubstrings Coverage Results" MODIFIED="1554612469781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$CorrectSwappedNodesInBST.coverage" NAME="CorrectSwappedNodesInBST Coverage Results" MODIFIED="1552846420106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$TresureIsland.coverage" NAME="TresureIsland Coverage Results" MODIFIED="1581402215791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>AmazonPrep.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$ReverseWordsInASentence.coverage" NAME="ReverseWordsInASentence Coverage Results" MODIFIED="1553314885280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$CountSubTreesEqualToSum.coverage" NAME="CountSubTreesEqualToSum Coverage Results" MODIFIED="1552961068755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$CheckIfSumOfThreeNumbersIs0.coverage" NAME="CheckIfSumOfThreeNumbersIs0 Coverage Results" MODIFIED="1553303574193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$TestMaxHeapImplementation.coverage" NAME="TestMaxHeapImplementation Coverage Results" MODIFIED="1554060693187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$MinimumNoOfJumpsRecursion.coverage" NAME="MinimumNoOfJumpsRecursion Coverage Results" MODIFIED="1568057110919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DynammicProgramming.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$PalindromicSubstrings.coverage" NAME="PalindromicSubstrings Coverage Results" MODIFIED="1554612469781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$CorrectSwappedNodesInBST.coverage" NAME="CorrectSwappedNodesInBST Coverage Results" MODIFIED="1552846420106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$SubsetSum.coverage" NAME="SubsetSum Coverage Results" MODIFIED="1579402964631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DynammicProgramming.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/InterviewPractiseSecondPart$RobotInAGrid.coverage" NAME="RobotInAGrid Coverage Results" MODIFIED="1565850593567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FavoritesManager">
@@ -132,107 +85,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NEggsKFloors.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/NEggsKFloors.java">
+      <file leaf-file-name="StaircaseProblem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MSPrep/StaircaseProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumSizeSquareSubMatrixWithAll1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaximumSizeSquareSubMatrixWithAll1.java">
+      <file leaf-file-name="StaircaseProblemMultipleWays.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MSPrep/StaircaseProblemMultipleWays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="315">
+              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumSizeRectangleWithAll1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaximumSizeRectangleWithAll1.java">
+      <file leaf-file-name="MaxSumBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MSPrep/MaxSumBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="675">
+              <caret line="45" column="12" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestCommonSubsequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LongestCommonSubsequence.java">
+      <file leaf-file-name="ShiftLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MSPrep/ShiftLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="339">
+              <caret line="66" column="27" lean-forward="false" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestIncreasingSubsequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/LongestIncreasingSubsequence.java">
+      <file leaf-file-name="SubarrayWithGivenSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MSPrep/SubarrayWithGivenSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EditDistance.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/EditDistance.java">
+      <file leaf-file-name="FindSetsOfNumsThatAddsUpDynammic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MSPrep/FindSetsOfNumsThatAddsUpDynammic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MedianFinder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MedianFinder.java">
+      <file leaf-file-name="TreasureIslandUsingBFS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AmazonPrep/TreasureIslandUsingBFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreasureIslandUsingDFS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AmazonPrep/TreasureIslandUsingDFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RatInAMaze.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RatInAMaze.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RobotInAGrid.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RobotInAGrid.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxHeap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Heap/MaxHeap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxHeapCallingClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Heap/MaxHeapCallingClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestCommonSubsequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/LongestCommonSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="24" column="72" lean-forward="false" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -243,6 +192,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -254,6 +204,7 @@
       <find>Solution</find>
       <find>Scanner</find>
       <find>\{\n       int\[\] table \= new int\[N \+ 1\]\;\n       table\[0\] \= 1\;\n       for\(int i \= 1 \; i \&lt;\= N \; i\+\+\)\{\n           table\[i\] \= Integer\.MAX_VALUE \;\n       \}\n       for\(int i \= 1 \; i \&lt;\= N \; i\+\+\)\{\n           for\(int j \= 0 \; j \&lt; coins\.length  \; j\+\+\) \{\n\n               if\(coins\[j\] \&lt;\= i\)\{\n               int sub_result \= table\[i \- coins\[j\]\]\;\n               if \(sub_result \!\= Integer\.MAX_VALUE \&amp;\&amp; sub_result \+ 1 \&lt; table\[i\]\) \{\n\n                   table\[i\] \= 1 \+ sub_result\;\n               \}\n           \}\n           \}\n       \}\n        return table\[N \]\;\n    \}</find>
+      <find>main</find>
     </findStrings>
     <replaceStrings>
       <replace>TreeNode</replace>
@@ -263,115 +214,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GotoClassSymbolConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="$XSLT" />
-      <filtered-out-file-type name="AIDL" />
-      <filtered-out-file-type name="AndroidDataBinding" />
-      <filtered-out-file-type name="Angular2HTML" />
-      <filtered-out-file-type name="AngularJS" />
-      <filtered-out-file-type name="Apple JS" />
-      <filtered-out-file-type name="Asp" />
-      <filtered-out-file-type name="AspectJ" />
-      <filtered-out-file-type name="CFML" />
-      <filtered-out-file-type name="CSS" />
-      <filtered-out-file-type name="CoffeeScript" />
-      <filtered-out-file-type name="CoffeeScriptLiterate" />
-      <filtered-out-file-type name="DB2" />
-      <filtered-out-file-type name="DTD" />
-      <filtered-out-file-type name="Decompiled SWF" />
-      <filtered-out-file-type name="Derby" />
-      <filtered-out-file-type name="Drools" />
-      <filtered-out-file-type name="ECMA Script Level 4" />
-      <filtered-out-file-type name="ECMAScript 6" />
-      <filtered-out-file-type name="EJBQL" />
-      <filtered-out-file-type name="EL" />
-      <filtered-out-file-type name="EQL" />
-      <filtered-out-file-type name="FTL" />
-      <filtered-out-file-type name="Flow JS" />
-      <filtered-out-file-type name="GSP" />
-      <filtered-out-file-type name="GWT JavaScript" />
-      <filtered-out-file-type name="GenericSQL" />
-      <filtered-out-file-type name="Gherkin" />
-      <filtered-out-file-type name="Groovy" />
-      <filtered-out-file-type name="H2" />
-      <filtered-out-file-type name="HOCON" />
-      <filtered-out-file-type name="HQL" />
-      <filtered-out-file-type name="HSQLDB" />
-      <filtered-out-file-type name="HTML" />
-      <filtered-out-file-type name="Haml" />
-      <filtered-out-file-type name="InjectedFreeMarker" />
-      <filtered-out-file-type name="JAVA" />
-      <filtered-out-file-type name="JPAQL" />
-      <filtered-out-file-type name="JQL" />
-      <filtered-out-file-type name="JQuery-CSS" />
-      <filtered-out-file-type name="JSON" />
-      <filtered-out-file-type name="JSP" />
-      <filtered-out-file-type name="JSPX" />
-      <filtered-out-file-type name="JSRegexp" />
-      <filtered-out-file-type name="JSX Harmony" />
-      <filtered-out-file-type name="JavaScript" />
-      <filtered-out-file-type name="JavaScript 1.5" />
-      <filtered-out-file-type name="JavaScript 1.6" />
-      <filtered-out-file-type name="JavaScript 1.7" />
-      <filtered-out-file-type name="JavaScript 1.8" />
-      <filtered-out-file-type name="LESS" />
-      <filtered-out-file-type name="Lombok.Config" />
-      <filtered-out-file-type name="Manifest" />
-      <filtered-out-file-type name="Markdown" />
-      <filtered-out-file-type name="Mxml" />
-      <filtered-out-file-type name="MySQL" />
-      <filtered-out-file-type name="Nashorn JS" />
-      <filtered-out-file-type name="OGNL" />
-      <filtered-out-file-type name="Oracle" />
-      <filtered-out-file-type name="OracleSqlPlus" />
-      <filtered-out-file-type name="PROGUARD" />
-      <filtered-out-file-type name="Play" />
-      <filtered-out-file-type name="Play2HtmlRouting" />
-      <filtered-out-file-type name="Play2Template" />
-      <filtered-out-file-type name="PointcutExpression" />
-      <filtered-out-file-type name="PostgreSQL" />
-      <filtered-out-file-type name="PostgresPLSQL" />
-      <filtered-out-file-type name="Properties" />
-      <filtered-out-file-type name="RELAX-NG" />
-      <filtered-out-file-type name="Redshift" />
-      <filtered-out-file-type name="RegExp" />
-      <filtered-out-file-type name="Renderscript" />
-      <filtered-out-file-type name="SASS" />
-      <filtered-out-file-type name="SCSS" />
-      <filtered-out-file-type name="SPI" />
-      <filtered-out-file-type name="SQL" />
-      <filtered-out-file-type name="SQL92" />
-      <filtered-out-file-type name="SQLite" />
-      <filtered-out-file-type name="SSP" />
-      <filtered-out-file-type name="Scala" />
-      <filtered-out-file-type name="SpEL" />
-      <filtered-out-file-type name="SpringDataQL" />
-      <filtered-out-file-type name="Stylus" />
-      <filtered-out-file-type name="Sybase" />
-      <filtered-out-file-type name="TEXT" />
-      <filtered-out-file-type name="TML" />
-      <filtered-out-file-type name="TSQL" />
-      <filtered-out-file-type name="ThymeleafExpressions" />
-      <filtered-out-file-type name="ThymeleafIterateExpressions" />
-      <filtered-out-file-type name="ThymeleafSpringSecurityExtras" />
-      <filtered-out-file-type name="ThymeleafTemplatesExpressions" />
-      <filtered-out-file-type name="ThymeleafUrlExpressions" />
-      <filtered-out-file-type name="TypeScript" />
-      <filtered-out-file-type name="TypeScript JSX" />
-      <filtered-out-file-type name="UAST" />
-      <filtered-out-file-type name="UastContextLanguage" />
-      <filtered-out-file-type name="VTL" />
-      <filtered-out-file-type name="XHTML" />
-      <filtered-out-file-type name="XML" />
-      <filtered-out-file-type name="XPath" />
-      <filtered-out-file-type name="XPath2" />
-      <filtered-out-file-type name="YouTrack" />
-      <filtered-out-file-type name="kotlin" />
-      <filtered-out-file-type name="sbtShell" />
-      <filtered-out-file-type name="yaml" />
-    </file-type-list>
-  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -380,47 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BooleanMatrixSetRowColumnTo1.java" />
-        <option value="$PROJECT_DIR$/src/TrieImplementation.java" />
-        <option value="$PROJECT_DIR$/src/LeftViewOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/NumberOfMountainsClimbed.java" />
-        <option value="$PROJECT_DIR$/src/NumberOfIslandsIn2DArray.java" />
-        <option value="$PROJECT_DIR$/src/RatInAMazeRepeat.java" />
-        <option value="$PROJECT_DIR$/src/NumberOfWaysRatInAMaze.java" />
-        <option value="$PROJECT_DIR$/src/PartitionProblemDynammicProgramming.java" />
-        <option value="$PROJECT_DIR$/src/LongestPathInAMatrix.java" />
-        <option value="$PROJECT_DIR$/src/MaximumSizedRectanglesWithAll1s.java" />
-        <option value="$PROJECT_DIR$/src/WordBreakProblem.java" />
-        <option value="$PROJECT_DIR$/src/SlidingWindowRepeat.java" />
-        <option value="$PROJECT_DIR$/src/MaximumInAQueue.java" />
-        <option value="$PROJECT_DIR$/src/LowestCommonAncestor.java" />
-        <option value="$PROJECT_DIR$/src/MaximumSumFromRootToLeaf.java" />
-        <option value="$PROJECT_DIR$/src/MaximumSizeBinarySubTree.java" />
-        <option value="$PROJECT_DIR$/src/ZigzagUsingDeque.java" />
-        <option value="$PROJECT_DIR$/src/MedianFinder.java" />
-        <option value="$PROJECT_DIR$/src/MaximumDifferenceBetweenTwoElements.java" />
-        <option value="$PROJECT_DIR$/src/LongestIncreasingSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/FlattenLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/RotateAMatrixBy90.java" />
-        <option value="$PROJECT_DIR$/src/LargestNumberFormed.java" />
-        <option value="$PROJECT_DIR$/src/PrintMatrixInSpiralOrder1.java" />
-        <option value="$PROJECT_DIR$/src/Check.java" />
-        <option value="$PROJECT_DIR$/src/CheckLinkedListIsPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/SnakeAndLadder.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTree/BinartyTreetoMirrorTree.java" />
-        <option value="$PROJECT_DIR$/src/DynammicProgramming/GreatestSumofSubarrays.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTree/BinarySearchTreeToSortedDoublyLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTree/BinaryTreeToDoublyLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/MinimumNumberOfCoins.java" />
-        <option value="$PROJECT_DIR$/src/DynammicProgramming/WaysToMakeACoinChange.java" />
-        <option value="$PROJECT_DIR$/src/DynammicProgramming/MinimumNumberOfJumps.java" />
-        <option value="$PROJECT_DIR$/src/DynammicProgramming/MinimumNoOfJumpsRecursion.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTree/LeftViewBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/LeftView.java" />
-        <option value="$PROJECT_DIR$/src/LRUImplementation.java" />
-        <option value="$PROJECT_DIR$/src/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/StockBuyAndSell.java" />
-        <option value="$PROJECT_DIR$/src/StockBuyAndSellRepeat.java" />
         <option value="$PROJECT_DIR$/src/DynammicProgramming/NEggsKFloors.java" />
         <option value="$PROJECT_DIR$/src/MaximumSizeSquareSubMatrixWithAll1.java" />
         <option value="$PROJECT_DIR$/src/LargestAreaRectangleInAHistogram.java" />
@@ -431,6 +232,47 @@
         <option value="$PROJECT_DIR$/src/DynammicProgramming/LongestCommonSubsequence.java" />
         <option value="$PROJECT_DIR$/src/DynammicProgramming/LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/DynammicProgramming/EditDistance.java" />
+        <option value="$PROJECT_DIR$/src/DynammicProgramming/MinimumPartitionUsingRecursion.java" />
+        <option value="$PROJECT_DIR$/src/DynammicProgramming/SubsetSum.java" />
+        <option value="$PROJECT_DIR$/src/DynammicProgramming/MinimumPartition.java" />
+        <option value="$PROJECT_DIR$/src/DynammicProgramming/WaysToCoverADistanceUsingRecursion.java" />
+        <option value="$PROJECT_DIR$/src/DynammicProgramming/WaysToCoverADistance.java" />
+        <option value="$PROJECT_DIR$/src/DynammicProgramming/LongestPathInAMatrix.java" />
+        <option value="$PROJECT_DIR$/src/DynammicProgramming/ShortestCommonSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/DynammicProgramming/CoinChangeProblem.java" />
+        <option value="$PROJECT_DIR$/src/Graph/NUmberOfISlands.java" />
+        <option value="$PROJECT_DIR$/src/MultidimensionalMatrix/RotateMatrixBy90.java" />
+        <option value="$PROJECT_DIR$/src/MultidimensionalMatrix/RotateMatrixBy180.java" />
+        <option value="$PROJECT_DIR$/src/MultidimensionalMatrix/ShortestPathInABinaryMaze.java" />
+        <option value="$PROJECT_DIR$/src/MultidimensionalMatrix/MaximumSizeRectangle.java" />
+        <option value="$PROJECT_DIR$/src/Array/NumberOfOccurencesOfAnElement.java" />
+        <option value="$PROJECT_DIR$/src/MultidimensionalMatrix/MaximumSizeSquareWithAll1.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/TopNBuzzwords.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/TopNWords.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/TopNBuzzWordsSelf.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/ZombieInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTree/ZombieInMatrixUsingBFS.java" />
+        <option value="$PROJECT_DIR$/src/ReverseWordsInASentence.java" />
+        <option value="$PROJECT_DIR$/src/LowestCommonAncestorofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/ZombieInMatrixUsingBFS.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/ProdSuggestion.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/SuggestedProducts.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/ProductSuggestionSelf.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/ReorderDataInLogFiles.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/OptimalUtilisation.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/MinCostToConnectRopes.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/TreasureIslandUsingDFS.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/TreasureIslandUsingBFS.java" />
+        <option value="$PROJECT_DIR$/src/AmazonPrep/TresureIsland.java" />
+        <option value="$PROJECT_DIR$/src/MSPrep/FibonacciRecursion.java" />
+        <option value="$PROJECT_DIR$/src/MSPrep/FibonacciDynammicProgramming.java" />
+        <option value="$PROJECT_DIR$/src/MSPrep/FindSetsOfNumsThatAddUpto16.java" />
+        <option value="$PROJECT_DIR$/src/MSPrep/FindSetsOfNumsThatAddsUpDynammic.java" />
+        <option value="$PROJECT_DIR$/src/MSPrep/StaircaseProblem.java" />
+        <option value="$PROJECT_DIR$/src/MSPrep/StaircaseProblemMultipleWays.java" />
+        <option value="$PROJECT_DIR$/src/MSPrep/MaxSumBST.java" />
+        <option value="$PROJECT_DIR$/src/MSPrep/ShiftLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/MSPrep/SubarrayWithGivenSum.java" />
       </list>
     </option>
   </component>
@@ -443,7 +285,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="822" />
+    <option name="height" value="814" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -461,9 +303,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -475,6 +314,18 @@
               <item name="InterviewPractiseSecondPart" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewPractiseSecondPart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewPractiseSecondPart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPractiseSecondPart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AmazonPrep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewPractiseSecondPart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPractiseSecondPart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterviewPractiseSecondPart" type="b2602c69:ProjectViewProjectNode" />
@@ -492,7 +343,25 @@
               <item name="InterviewPractiseSecondPart" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewPractiseSecondPart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewPractiseSecondPart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPractiseSecondPart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Heap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewPractiseSecondPart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPractiseSecondPart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MSPrep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewPractiseSecondPart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPractiseSecondPart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MultidimensionalMatrix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterviewPractiseSecondPart" type="b2602c69:ProjectViewProjectNode" />
@@ -504,6 +373,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -514,10 +386,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="ugly&#9;PSI&#9;JAVA://UglyNumber&#10;covera&#9;ACTION&#9;ActivateCoverageToolWindow&#10;bufferReader&#9;PSI&#9;JAVA://java.io.BufferedReader&#10;testRes&#9;FILE&#9;file:///Users/neo/MyProject/InterviewPractiseSecondPart/testResult.test" />
-    <property name="settings.editor.selected.configurable" value="template.copyright.formatting" />
+    <property name="SearchEverywhereHistoryKey" value="Maxi&#9;FILE&#9;file:///Users/neo/MyProject/InterviewPractiseSecondPart/src/MaximumSizeRectangleWithAll1.java&#10;maze&#9;FILE&#9;file:///Users/neo/MyProject/InterviewPractiseSecondPart/src/RatInAMaze.java&#10;Maze&#9;FILE&#9;file:///Users/neo/MyProject/InterviewPractiseSecondPart/src/NumberOfWaysRatInAMaze.java&#10;ugly&#9;PSI&#9;JAVA://UglyNumber&#10;covera&#9;ACTION&#9;ActivateCoverageToolWindow&#10;bufferReader&#9;PSI&#9;JAVA://java.io.BufferedReader&#10;testRes&#9;FILE&#9;file:///Users/neo/MyProject/InterviewPractiseSecondPart/testResult.test" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AmazonPrep" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/DynammicProgramming" />
     </key>
@@ -534,15 +409,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestIncreasingSubsequence">
-    <configuration name="LongestCommonSubsequence (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ShiftLinkedList">
+    <configuration name="FibonacciDynammicProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DynammicProgramming.*" />
+          <option name="PATTERN" value="MSPrep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="DynammicProgramming.LongestCommonSubsequence" />
+      <option name="MAIN_CLASS_NAME" value="MSPrep.FibonacciDynammicProgramming" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -554,9 +429,14 @@
       <module name="InterviewPractiseSecondPart" />
       <envs />
     </configuration>
-    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="LongestCommonSubsequence" />
+    <configuration name="FibonacciRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="MSPrep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="MSPrep.FibonacciRecursion" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -568,14 +448,14 @@
       <module name="InterviewPractiseSecondPart" />
       <envs />
     </configuration>
-    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FindSetsOfNumsThatAddUpto16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DynammicProgramming.*" />
+          <option name="PATTERN" value="MSPrep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="DynammicProgramming.LongestIncreasingSubsequence" />
+      <option name="MAIN_CLASS_NAME" value="MSPrep.FindSetsOfNumsThatAddUpto16" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -601,14 +481,14 @@
       <module name="InterviewPractiseSecondPart" />
       <envs />
     </configuration>
-    <configuration name="MaxHeapCallingClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ShiftLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Heap.*" />
+          <option name="PATTERN" value="MSPrep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Heap.MaxHeapCallingClass" />
+      <option name="MAIN_CLASS_NAME" value="MSPrep.ShiftLinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -620,9 +500,14 @@
       <module name="InterviewPractiseSecondPart" />
       <envs />
     </configuration>
-    <configuration name="MaximumSizeRectangleWithAll1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MaximumSizeRectangleWithAll1" />
+    <configuration name="StaircaseProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="MSPrep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="MSPrep.StaircaseProblem" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -717,19 +602,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.LongestSubstringOptimum" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MaximumSizeRectangleWithAll1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LongestCommonSubsequence" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MaxHeapCallingClass" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LongestCommonSubsequence (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FibonacciRecursion" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FibonacciDynammicProgramming" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FindSetsOfNumsThatAddUpto16" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StaircaseProblem" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ShiftLinkedList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LongestCommonSubsequence (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MaxHeapCallingClass" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LongestCommonSubsequence" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MaximumSizeRectangleWithAll1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ShiftLinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StaircaseProblem" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindSetsOfNumsThatAddUpto16" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FibonacciDynammicProgramming" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FibonacciRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -759,42 +644,50 @@
       <workItem from="1556953131993" duration="17507000" />
       <workItem from="1565849293746" duration="150773000" />
       <workItem from="1568400185183" duration="18401000" />
-      <workItem from="1579155862583" duration="11722000" />
+      <workItem from="1579155862583" duration="152537000" />
+      <workItem from="1587230819298" duration="1366000" />
+      <workItem from="1601487366490" duration="858000" />
+      <workItem from="1605153784497" duration="3194000" />
+      <workItem from="1605572805137" duration="5080000" />
+      <workItem from="1606365397021" duration="2138000" />
+      <workItem from="1606930178780" duration="17734000" />
+      <workItem from="1609655018461" duration="1040000" />
+      <workItem from="1612572993783" duration="585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="505814000" />
+    <option name="totallyTimeSpent" value="678624000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="814" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32599726" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41540578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34353268" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.49164677" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27181688" sideWeight="0.49164677" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37138927" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25107297" sideWeight="0.50835323" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3713491" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32545203" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -832,6 +725,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$USER_HOME$/Downloads/TextToSpeech/src/main/java/ui/convertTextToSpeech/inputText.js" />
+      </list>
+    </option>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.test" />
@@ -1526,351 +1424,187 @@
           <properties />
           <option name="timeStamp" value="213" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynammicProgramming/WaysToCoverADistanceUsingRecursion.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynammicProgramming/WaysToCoverADistanceUsingRecursion.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynammicProgramming/WaysToCoverADistanceUsingRecursion.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MultidimensionalMatrix/MaximumSizeRectangle.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/TopNBuzzwords.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/TopNBuzzWordsSelf.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/TopNBuzzWordsSelf.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseWordsInASentence.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/SuggestedProducts.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/SuggestedProducts.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/SuggestedProducts.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/SuggestedProducts.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/ReorderDataInLogFiles.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/OptimalUtilisation.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/OptimalUtilisation.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/OptimalUtilisation.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/MinCostToConnectRopes.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/TresureIsland.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/TresureIsland.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/TresureIsland.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AmazonPrep/TresureIsland.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MSPrep/ShiftLinkedList.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MSPrep/ShiftLinkedList.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="214" />
+      <option name="time" value="272" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LongestSubstringOptimum.java">
+    <entry file="file://$PROJECT_DIR$/src/MultidimensionalMatrix/RotateMatrixBy180.java" />
+    <entry file="file://$PROJECT_DIR$/src/MultidimensionalMatrix/RotateMatrixBy90.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-552">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="148">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LowestCommonAncestor.java">
+    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/ShortestCommonSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaximumInQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/LongestPathInAMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SearchIn2DMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberOfIslandsIn2DArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RectangleOverlap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrintMatrixInSpiralOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RotateMatrixBy90.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaximumInAQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="20" column="66" lean-forward="true" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrieImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaximumSizedRectanglesWithAll1s.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-71">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SlidingWindowRepeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaximumSizeSquareSubMatrixWith1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlattenLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="55" column="41" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RatInAMazeRepeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="258">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NumberOfWaysRatInAMaze.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-591">
+        <state relative-caret-position="-260">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargestNumberFormed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RotateAMatrixBy90.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UglyNumberUsingMultipleFactors.java">
+    <entry file="file://$PROJECT_DIR$/src/MultidimensionalMatrix/ShortestPathInABinaryMaze.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UglyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PalindromicSubstrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrintMatrixInSpiralOrder1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CheckLinkedListIsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-951">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/GreatestSumofSubarrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinarySearchTreeToSortedDoublyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinaryTreeToDoublyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="9" column="60" lean-forward="false" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinartyTreetoMirrorTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/WaysToMakeACoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="79" lean-forward="false" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinimumNumberOfCoins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="57" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/MinimumNumberOfJumps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/MinimumNoOfJumpsRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeftViewOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTree/LeftViewBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LRUImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="80" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeftView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StockBuyAndSellRepeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="15" lean-forward="false" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
-          <folding>
-            <element signature="e#476#486#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StockBuyAndSell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SnakeAndLadder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/NEggsKFloors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaximumSizeSquareSubMatrixWithAll1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="171">
+          <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1878,6 +1612,105 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultidimensionalMatrix/MaximumSizeRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RatInAMazeRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultidimensionalMatrix/MaximumSizeSquareWithAll1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="78" lean-forward="false" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/NumberOfOccurencesOfAnElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/TopNBuzzwords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/TopNWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/TopNBuzzWordsSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/ZombieInMatrixUsingBFS.java" />
+    <entry file="file://$PROJECT_DIR$/src/ReverseWordsInASentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaximumSumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaximumInAQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumInRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaximumInQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1886,7 +1719,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LowestCommonAncestorofBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/ZombieInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/ProdSuggestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/ProductSuggestionSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/SuggestedProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#2079#2080#0" expanded="false" />
+            <element signature="e#2154#2155#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/ReorderDataInLogFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/OptimalUtilisation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1898,48 +1794,161 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Heap/MaxHeap.java">
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/MinCostToConnectRopes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Heap/MaxHeapCallingClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/LongestCommonSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="24" column="72" lean-forward="false" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
+        <state relative-caret-position="300">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/LongestIncreasingSubsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/MedianFinderWithHeapImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="30">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynammicProgramming/EditDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/Graph/NUmberOfISlands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="285">
+          <caret line="22" column="88" lean-forward="true" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreasureIsland.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberOfIslandsIn2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/ZombieInMatrixUsingBFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/TresureIsland.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSPrep/FibonacciRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSPrep/FibonacciDynammicProgramming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSPrep/FindSetsOfNumsThatAddUpto16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSPrep/StaircaseProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSPrep/StaircaseProblemMultipleWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSPrep/MaxSumBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="12" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSPrep/FindSetsOfNumsThatAddsUpDynammic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/TreasureIslandUsingBFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonPrep/TreasureIslandUsingDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RatInAMaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobotInAGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSPrep/ShiftLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="66" column="27" lean-forward="false" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSPrep/SubarrayWithGivenSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
